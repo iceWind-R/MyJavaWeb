@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ECharts_FangYi/ECharts_FangYi.iml" filepath="$PROJECT_DIR$/ECharts_FangYi/ECharts_FangYi.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyJavaWeb.iml" filepath="$PROJECT_DIR$/MyJavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemManager/SystemManager.iml" filepath="$PROJECT_DIR$/SystemManager/SystemManager.iml" />
     </modules>
   </component>
 </project>
