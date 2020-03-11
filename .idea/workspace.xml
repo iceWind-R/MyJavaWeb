@@ -7,55 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4c4d84c-309d-4561-bfff-179da3e870f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TheOutBreak_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/TheOutBreak.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/dao/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/entity/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/servlet/QueryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/utils/DataSourceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/src/utils/utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/JsoupXpath-0.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/commons-dbutils-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/commons-lang-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/commons-logging.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/ezmorph-1.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/json-lib-2.1-jdk15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/jsoup-1.11.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/WEB-INF/lib/mysql-connector-java-5.1.44-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheOutBreak/web/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/dao/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/entity/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/servlet/QueryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/utils/DataSourceUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/src/utils/utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/JsoupXpath-0.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/commons-dbutils-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/commons-dbutils-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/commons-lang-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/commons-logging.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/ezmorph-1.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/json-lib-2.1-jdk15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/jsoup-1.11.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/WEB-INF/lib/mysql-connector-java-5.1.44-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/web/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yiqing/yiqing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -105,7 +56,7 @@
           <entry key="html" value="12" />
           <entry key="java" value="10" />
           <entry key="jsp" value="115" />
-          <entry key="txt" value="27" />
+          <entry key="txt" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -113,7 +64,7 @@
           <entry key="HTML" value="12" />
           <entry key="JAVA" value="10" />
           <entry key="JSP" value="115" />
-          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="PLAIN_TEXT" value="71" />
         </counts>
       </usages-collector>
     </session>
@@ -187,63 +138,6 @@
             <path>
               <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="SystemManager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="SystemManager" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="TheOutBreak" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="TheOutBreak" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="TheOutBreak" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="TheOutBreak" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="TheOutBreak" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="TheOutBreak" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="TheOutBreak" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyJavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaWeb" type="462c0819:PsiDirectoryNode" />
               <item name="yiqing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -261,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583916062768" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583916286754" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -375,7 +269,7 @@
       <workItem from="1583331878790" duration="147000" />
       <workItem from="1583372462911" duration="6337000" />
       <workItem from="1583574135479" duration="503000" />
-      <workItem from="1583915510194" duration="386000" />
+      <workItem from="1583915510194" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="Commit System Manager.">
       <created>1583376750199</created>
@@ -391,16 +285,23 @@
       <option name="project" value="LOCAL" />
       <updated>1583378595841</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加利用Java实时爬取的疫情数据程序，并用百度的开源报表EChart进行展示。">
+      <created>1583916182428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583916182428</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8075000" />
+    <option name="totallyTimeSpent" value="8403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -410,7 +311,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32844576" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32844576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,7 +343,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit System Manager." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit System Manager." />
+    <MESSAGE value="添加利用Java实时爬取的疫情数据程序，并用百度的开源报表EChart进行展示。" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加利用Java实时爬取的疫情数据程序，并用百度的开源报表EChart进行展示。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ECharts_FangYi/src/bao/entity.java">
